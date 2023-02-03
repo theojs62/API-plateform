@@ -8,8 +8,8 @@ class HomeController
 {
 
     /**
-     * Méthode qui sert à créer un fichier et le corriger.
-     * @param $reform 
+     * Méthode à gérer un fichier.
+     * @param $reform
      * @param Request $request
      * @return void
      */
