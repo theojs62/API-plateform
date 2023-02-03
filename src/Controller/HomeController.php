@@ -7,7 +7,7 @@ use Symfony\Component\HttpFoundation\Request;
 class HomeController
 {
     /**
-     * Méthode à gérer un fichier.
+     * Méthode pour gérer un fichier.
      * @param $reform
      * @param Request $request
      * @return void
